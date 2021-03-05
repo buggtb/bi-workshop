@@ -18,3 +18,5 @@ So in this course, we're going to ignore the Notebooks, Machine Learning models 
 - Wk8: 50m rows? No you don't need a big data solution. Tuning your datawarehouse.
 - Wk9: Business Intelligence in the Cloud
 - Wk10: Empowering users - Search Engines
+- Wk11: Graph databases - Neo4j
+- Wk12: Building pipelines with Apache Beam
