@@ -8,13 +8,13 @@ In my time in IT and specifically the data sector, I have never pretended to be 
 
 So in this course, we're going to ignore the Notebooks, Machine Learning models and all the "hip stuff" and we're going to delve into the basics and how to quickly learn how to process data, the basics of data warehousing and what tools are available, so that you can get a job in data, without learning how to be a hardcore programmer or maths genius in the process. Of course, if thats the way you want to roll, thats absolutely cool, but there is more than one avenue into this sector and this follows my path.. ish.
 
-Wk1: Getting Setup
-Wk2: Processing data - the basics
-Wk3: What is a data warehouse?
-Wk4: Getting data from A to B
-Wk5: More advanced ETL patterns
-Wk6: SQL-what?
-Wk7: Visualisations and getting data to the users
-Wk8: 50m rows? No you don't need a big data solution. Tuning your datawarehouse.
-Wk9: Business Intelligence in the Cloud
-Wk10: Empowering users - Search Engines
+- Wk1: Getting Setup
+- Wk2: Processing data - the basics
+- Wk3: What is a data warehouse?
+- Wk4: Getting data from A to B
+- Wk5: More advanced ETL patterns
+- Wk6: SQL-what?
+- Wk7: Visualisations and getting data to the users
+- Wk8: 50m rows? No you don't need a big data solution. Tuning your datawarehouse.
+- Wk9: Business Intelligence in the Cloud
+- Wk10: Empowering users - Search Engines
